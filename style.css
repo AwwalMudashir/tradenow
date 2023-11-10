@@ -1,0 +1,1061 @@
+@import url('https://fonts.cdnfonts.com/css/roboto');
+
+.body2{
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 20px;
+}
+
+#nav{
+  background-color: rgb(28,48,25);
+  padding:6px;
+  margin:0px;
+  height:620px;
+}
+
+*{
+  padding:0px;
+  margin:0px;
+}
+
+#but{
+  list-style-type: none;
+}
+
+#play{
+  margin-top: 7px;
+  margin-left: 8px;
+}
+
+.drops{
+  width:100%;
+  height:80px;
+  display:none;
+  text-align: center;
+  list-style-type: none;
+  padding:20px;
+  background-color: bisque;
+  text-decoration: none;
+  color:green;
+  font-size: 35px;
+}
+.down{
+  margin-left:-37px;
+}
+img{
+  width:120px;
+  height:70px;
+  padding:0px;
+}
+
+.navigation{
+  display: flex;
+  color:white;
+  list-style-type: none;
+  justify-content: space-around;
+  margin-top:10px;
+}
+
+#bars{
+  display: none;
+}
+
+#bara{
+  list-style-type: none;
+ 
+}
+
+#wu{
+  display: none;
+}
+
+.boss{
+  list-style-type: none;
+  font-family:calibri;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: space-around;
+  column-gap: 9px;
+}
+
+.firstbutton{
+  border-radius: 6px;
+  border:none;
+  padding:12px;
+  color:white;
+  font-weight: bold;
+  background-color: rgb(22, 209, 22);
+}
+
+.text{
+  color:white;
+  font-family:calibri;
+  font-weight: bold;
+  line-height: 0.7;
+  margin-top:100px;
+  margin-left: 100px;
+}
+
+.text h2{
+  font-size: 50px;
+
+}
+
+.text p{
+  font-family: calibri;
+}
+#rash{
+  list-style-type: none;
+  display:flex;
+}
+
+#baby{
+  font-size: 12px;
+  font-family: calibri;
+}
+
+.image{
+   margin-left:70px;
+
+}
+.big{
+  height:400px;
+  width:450px;
+}
+.body{
+  display:flex;
+}
+
+.line{
+  background-color: aqua;
+  height:20px;
+  width:100%;
+}
+
+#hand{
+  height:300px;
+  width:420px;
+  margin-left:100px;
+}
+
+#ferr{
+margin-left: -15px;
+}
+
+h3{
+  text-align: center;
+}
+
+#hfive{
+  text-align: center;
+  color:rgb(128, 128, 125);
+  margin-bottom:20px;
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.shard{
+  display: flex;
+  padding:4px;
+  margin-left: 80px;
+  width:100%;
+}
+
+.shards{
+  background-color: rgba(170, 255, 217,0.7);
+  height:370px;
+  width:350px;
+  margin:5px;
+  padding:27px;
+  font-family: 'Trebuchet MS';
+  border-radius: 10px;
+  font-weight: bold;
+
+}
+.shards h3{
+  text-align: left;
+}
+
+.shardpics{
+  height:260px;
+  width:280px;
+}
+
+.shards h5{
+  color:rgb(128, 128, 125);
+  margin-top:4px;
+  font-size: 20px;
+  font-family: calibri;
+}
+
+.body3{
+ background-color:  rgba(224, 249, 238, 0.5);
+ height:540px;
+}
+
+.body3,.body6 h3{
+  padding:7px;
+}
+
+#carouselExample{
+  height:230px;
+}
+
+.carousel-item img {
+   height:400px;
+   width:500px;
+   
+}
+
+.body4{
+  height:300px;
+  width:100%;
+  margin-top:15px;
+  display: flex;
+  justify-content: space-between;
+  background-color:rgb(28,48,25);
+}
+
+.blow1{
+  padding:50px;
+  margin-top:20px;
+  margin-left:70px;
+  width:450px;
+}
+
+.blow1 h2{
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: calibri;
+}
+   
+.blow1 p{
+  color:rgb(128, 128, 125);
+  font-size:12px;
+  margin-top:6px;
+}
+.buttongang{
+  display:flex;
+  justify-content: space-between;
+  width:200px;
+}
+.buttongang button{
+  height:35px;
+  width:90px;
+  background-color: black;
+  border: 1px solid white;
+  row-gap:10px;
+  border-radius:5px;
+  color:white;
+  padding:0px;
+}
+.buttongang button h6{
+   font-size: 8px;
+}
+.buttongang button h4{
+   font-size: 10px;
+   font-family: CALIBRI;
+}
+.buttongang button img{
+width:18px;
+height: 20px;
+margin-top:5px;
+}
+#but{
+   display:flex;
+}
+
+#but1{
+ width:70px;
+ height:10vh;
+ line-height: 0.3;
+ text-align: left;
+ margin-left:10px;
+}
+#but2{
+ width:70px;
+ height:10vh;
+ text-align: left;
+ margin-left:10px;
+ margin-bottom:17px
+}
+
+.buttongang button #but2 h4{
+  font-size: 15px;
+  font-family: CALIBRI;
+}
+
+.buttongang button #but2 img{
+  width:18px;
+  height: 20px;
+  margin-top:5px;
+}
+
+.blow2 img{
+  height:300px;
+  width:520px;
+  padding-right:50px;
+}
+
+.body5{
+  display:flex;
+  padding:50px;
+  height: 500px;
+  background-color: white;
+  width:100%;
+}
+
+#pic {
+ height:450px;
+ width:30%;
+}
+#pic img{
+  height: 140px;
+  width: 180px;
+  margin-top:280px;
+  margin-left: 40px;
+}
+
+#ques {
+  height:450px;
+  width:70%;
+  display:grid;
+  line-height: 0.5em;
+}
+#ques h2{
+  padding:0px;
+  margin:0px;
+}
+#hthree{
+  margin-bottom:240px;
+  margin-top: 60px;
+  margin-right:460px;
+  width:500px;
+  padding:15px;
+  display: block;
+}
+ hr{
+  width:540px;
+  height:5px;
+  
+}
+#hthree span div{
+  display: flex;
+  justify-content: space-between;
+}
+#hthree span i {
+  margin-top:5px;
+  margin-left: 50px;
+  display: inline;
+  
+}
+.body6{
+  height: 250px;
+  width:100%;
+  padding:20px;
+  background-color:rgba(224, 249, 238, 0.5);
+}
+
+input{
+  height:40px;
+  border-radius: 7px;
+  width:280px;
+  padding:5px;
+  border:1px black solid;
+  
+}
+div form{
+  display: inline;
+  justify-content: center;
+}
+
+form{
+  margin-left: 200px;
+  display: inline;
+  justify-content: center;
+  margin-top: 40px;
+}
+.body6 button{
+  height:40px;
+  width:92px;
+  border-radius: 7px;
+  border:none;
+  color:white;
+  font-weight: bold;
+  padding:5px;
+  background-color: green;
+  margin-left:10px;
+}
+.footer1{
+  height:25px;
+  background-color: rgba(24, 71, 24,0.9);
+  display: inline-flex;
+  width:100%;
+  padding:30px;
+  justify-content: space-around;
+  color: white;
+}
+
+.footer2{
+  height:50px;
+  padding:25px;
+  width:100%;
+  background-color: rgba(7, 30, 7,0.9);
+  color: white;
+  font-size:12px;
+  font-family: 'Arial Narrow Bold';
+  display:inline-flex;
+  justify-content: space-around;
+}
+
+#mui{
+  font-size: 9px;
+}
+
+@media screen and (min-width: 980px)and (max-width:1100px){
+  
+.shard{
+  display: flex;
+  padding:5px;
+  margin-left: 0px;
+}
+}
+@media screen and (min-width: 850px)and (max-width:990px){
+  
+.row{
+  padding:2px;
+  display: flex;
+  justify-content: space-between;
+  gap:4px;
+  margin:0px;
+  width:100%;
+}
+
+#rlo img{
+  width:380px;
+  height:320px;
+  margin-left: 0px;
+  margin-right: 100px;
+  padding:0px;
+}
+
+#body2 div{
+  padding:0px;
+}
+
+.shard{
+  display: flex;
+  padding:5px;
+  margin-left: 0px;
+}
+}
+
+@media screen and (min-width:800px) and (max-width:890px){
+  .shard{
+    display: flex;
+    padding:5px;
+    margin-left: 0px;
+  }
+  .body6 h3{
+    font-size: 28px;
+    text-align: center;
+  }
+
+  #hfive{
+    font-size: 16px;
+    text-align: center;
+  }
+
+   form{
+    margin-left:200px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .row{
+    padding:2px;
+    display: flex;
+    justify-content: space-between;
+    gap:4px;
+    margin:0px;
+    width:100%;
+  }
+  
+  #rlo img{
+    width:380px;
+    height:320px;
+    margin-left: 0px;
+    margin-right: 100px;
+    padding:0px;
+  }
+
+  .text h2{
+   font-size: 40px;
+  }
+  .text p{
+   font-size: 14px;
+   line-height: 0.3;
+  }
+
+  .body4{
+    width:100%;
+  }
+
+  .blow2 img{
+    height:300px;
+    width:320px;
+    padding-right:50px;
+  }
+
+  .blow1{
+    padding:20px;
+    margin-top:30px;
+    margin-left:40px;
+    width:450px;
+  }
+  
+  .blow1 h2{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: calibri;
+  }
+  
+  .blow1 p{
+    color:rgb(128, 128, 125);
+    font-size:12px;
+    margin-top:6px;
+  }
+
+  .text p h2{
+    line-height: 1.5;
+  }
+  .text  h2{
+    width:220px;
+  }
+
+  .body .text{
+    margin-top:30px;
+    margin-left:100px;
+    height:400px;
+  }
+
+  .shard{
+    margin-left: 0px;
+    padding:0px;
+    width:100%;
+  }
+
+  .shards{
+    height:280px;
+    width:250px;
+    margin:0px;
+    margin-left:4px;
+    padding: 10px;
+  }
+
+  .shards h3{
+     font-size: 25px;
+  }
+  .shards h5{
+     font-size: 15px;
+  }
+  
+  .shardpics{
+    height:160px;
+    width:180px;
+  }
+
+}
+
+@media screen and (min-width:600px) and (max-width:815px) {
+  .body .text{
+    margin-top:10px;
+    margin-left:100px;
+    padding:10px;
+    height:400px;
+  }
+
+  .text h2{
+    font-size:25px;
+  }
+
+  .text p{
+    font-size: 15px;
+    font-family: Arial;
+    width:220px;
+    line-height: 1;
+  }
+
+  .image{
+    margin-left: 20px;
+    margin-top: 40px;
+  }
+  .big{
+    height:300px;
+    width:350px;
+  }
+
+  .row{
+    padding:2px;
+    display: flex;
+    justify-content: space-between;
+    gap:4px;
+    margin:0px;
+    width:100%;
+  }
+  
+  #rlo img{
+    width:380px;
+    height:320px;
+    margin-left: 0px;
+    margin-right: 100px;
+    padding:0px;
+  }
+
+  #pic img{
+    margin-left: 10px;
+    padding-left: 0px;
+    width:180px;
+    margin-top:200px;
+  }
+
+  #ques #hthree {
+    margin-right: 10px;
+    padding:0px;
+    font: 10px;
+  }
+
+  #ques{
+    width: 60%;
+  }
+  
+  hr{
+    width: 100%;
+  }
+
+  
+
+  .shard{
+    margin-left: 0px;
+    padding:0px;
+    width:100%;
+  }
+
+  .shards{
+    height:280px;
+    width:250px;
+    margin:0px;
+    margin-left:4px;
+    padding: 10px;
+  }
+
+  .shards h3{
+     font-size: 25px;
+  }
+  .shards h5{
+     font-size: 15px;
+  }
+  
+  .shardpics{
+    height:160px;
+    width:180px;
+  }
+
+  .blow2 img{
+    height:300px;
+    width:320px;
+    margin-right:50px;
+  }
+
+  .blow1{
+    padding:15px;
+    margin-top:15px;
+    margin-left:40px;
+    width:450px;
+  }
+
+  .body6 h3{
+    font-size: 28px;
+    text-align: center;
+  }
+
+  #hfive{
+    font-size: 16px;
+    text-align: center;
+  }
+
+  div form{
+    display: inline;
+    justify-content: center;
+  }
+
+}
+
+@media screen and (min-width:1550px){
+  .shard{
+    display: flex;
+    padding:4px;
+    margin-left: 0px;
+    width:100%;
+    align-items: center;
+    justify-content: space-between;
+    align-content: center;
+  }
+  
+  .shards{
+    background-color: rgba(170, 255, 217,0.7);
+    height:370px;
+    width:350px;
+    margin:5px;
+    padding:27px;
+    font-family: 'Trebuchet MS';
+    border-radius: 10px;
+    font-weight: bold;
+  
+  }
+  .shards h3{
+    text-align: left;
+  }
+  
+  .shardpics{
+    height:260px;
+    width:280px;
+  }
+  
+  .shards h5{
+    color:rgb(128, 128, 125);
+    margin-top:4px;
+    font-size: 20px;
+    font-family: calibri;
+  }
+
+  .big{
+    margin-left: 200px;
+  }
+}
+
+
+@media screen and (min-width:600px) and (max-width:650px){
+  .text{
+    height:300px;
+    line-height:0.7
+  }
+  .text p{
+    font-size: 8px;
+    padding:3px;
+  }
+  .text h2{
+    font-size: 18px;
+  }
+
+  .big{
+    height: 170px;
+    width:220px;
+    margin-left:20px;
+  }
+}
+
+@media screen and (max-width:600px) {
+  .boss,#but{
+    display: none;
+  }
+  #bara{
+    margin-top: 20px;
+    display: inline-block;
+  }
+  #bars{
+    /* margin-top: 30px; */
+    display: inline-block;
+  }
+
+  #nav{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .body{
+    display: grid;
+  }
+
+  .text{
+    width:100%;
+    margin-right: 0px;
+    margin-left: 40px;
+    margin-top:0px;
+    padding:15px;
+    height:400px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .text p{
+    width:100%;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding:0px;
+    margin-bottom: 10px;
+    line-height: 1.2;
+    font-size:24px;
+  }
+  .text h2{
+    width:100%;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom:15px;
+    padding:0px;
+    font-size:60px;
+  }
+
+  #lio{
+    height: 50px;
+  }
+
+  .navigation{
+    margin:0px;
+    padding:0px;
+    height: 50px;
+  }
+  #nav{
+    display: grid;
+    height:1200px;
+  }
+  .big{
+    margin-top: 15px;
+  }
+
+  .row{
+    display: grid;
+  }
+
+  #rlo{
+    margin-left: 0px;
+    display: grid ;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+  }
+  #rlo img{
+    margin-left: 0px;
+    margin-bottom: 20px;
+  }
+
+  .shard{
+    display:grid;
+    margin-left: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    justify-content: center;
+  }
+  
+  .body4{
+    display: grid;
+    height:800px;
+  }
+
+  #garmadon{
+    display:none;
+  }
+
+  #wu{
+    display: block;
+    margin-left: 50px;
+    margin-bottom:40px;
+  }
+
+  .body5{
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  #pic{
+    display:none;
+  }
+
+}
+
+@media screen and (max-width:460px){
+  .big{
+    height:180px;
+    width:280px;
+    margin-right: 100px;
+  }
+
+  .blow1{
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+
+  #wu{
+    height:250px;
+    width:330px;
+    
+  }
+
+  #ques{
+    height:300px;
+    margin-left: 0px;
+  }
+
+  #hthree{
+    width:100%;
+  }
+
+  form{
+    margin-left: 0px;
+  }
+
+  form button{
+    margin-top: 20px;
+  }
+
+  .footer2{
+    height:80px;
+  }
+  #ques #hthree {
+    margin-right: 10px;
+    padding:0px;
+    font: 10px;
+  }
+
+  #ques{
+    width: 100%;
+  }
+  
+  hr{
+    width: 100%;
+  }
+
+  .body6{
+    height:320px;
+  }
+
+  form button{
+    margin-top: 20px;
+  }
+}
+.remove{
+  display: flex;
+}
+
+.navigation{
+  padding: 50px;
+}
+
+@media screen and (max-width:400px){
+  .text{
+    padding-left: 5px;
+    padding-right: 5px;
+    width:100%;
+    margin-left: 15px;
+    margin-bottom: 300px;
+    height:100px;
+  }
+  .navigation{
+    height:40px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .body{
+    height:700px;
+  }
+
+  .big{
+    height: 300px;
+  }
+
+  .text p{
+    width:80%;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding:0px;
+    margin-bottom: 10px;
+    line-height: 1.2;
+    font-size:18px;
+  }
+  .text h2{
+    width:100%;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding:0px;
+    margin-bottom: 10px;
+    line-height: 1.2;
+    font-size:40px;
+  }
+  #bara{
+    margin-top: 20px;
+    margin-right: 100px;
+    display: inline-block;
+  }
+  #bars{
+    /* margin-top: 30px; */
+    display: inline-block;
+  }
+
+  .blow1{
+    margin-left: 0px;
+    margin-top: 0px;
+    padding-top: 30px;
+    padding-left: 15px;
+  }
+
+  .blow1 p{
+    width:80%;
+  }
+  
+  #ques #hthree {
+    margin-right: 10px;
+    padding:0px;
+    font: 10px;
+  }
+
+  #ques{
+    width: 100%;
+  }
+
+  .body5{
+    padding:0px;
+    padding-top:30px;
+    width:85%;
+  }
+
+  #hthree{
+    width:85%;
+  }
+
+  .body6{
+    height:320px;
+  }
+
+  form button{
+    margin-top: 20px;
+  }
+
+  .footer2{
+    height:80px;
+  }
+
+  .navigation{
+    width:100%;
+    display: flex;
+    padding: 50px;
+  }
+
+  .body3{
+    height:420px;
+  }
+
+  .body3 img{
+    height:170px;
+  }
+
+  hr{
+    width: 100%;
+  }
+
+  
+
+}
